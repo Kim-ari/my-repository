@@ -1,0 +1,2 @@
+ABC
+git init은 초기화 문구
